@@ -136,12 +136,6 @@ python start.py --raw-case
 
 ---
 
-## License
-
-MIT (suggested). Replace with whatever you prefer for your repo.
-
----
-
 ## Acknowledgments
 
 - [AprilASR] for the streaming speech recognition engine  
