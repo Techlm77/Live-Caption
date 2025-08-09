@@ -151,4 +151,4 @@ MIT (suggested). Replace with whatever you prefer for your repo.
 
 **Enjoy!** If you hit any odd Windows audio edge cases, open an issue with your log output and `sd.query_devices()` dump.
 
-[AprilASR]: https://abb128.github.io/april-asr/april_asr/index.html
+[AprilASR]: https://abb128.github.io/april-asr/
