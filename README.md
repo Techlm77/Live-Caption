@@ -1,6 +1,6 @@
 # Live Captions (Windows, AprilASR)
 
-Fast, simple, and accurate **live captions for “what you hear”** on Windows using WASAPI loopback + [AprilASR]. Also supports **microphone mode**. Minimal UI, resizable window, and an optional history log.
+Fast, simple, and accurate **live captions** on Windows using WASAPI loopback + [AprilASR]. Also supports **microphone mode**. Minimal UI, resizable window, and an optional history log.
 
 > Press **Esc** or close the window to stop.
 
@@ -133,12 +133,6 @@ python start.py --raw-case
 - Optional **per-app capture** (via Windows Audio Session APIs)  
 - Toggleable **always-on-top** and quick **position presets**  
 - **Latency/CPU** HUD for quick tuning
-
----
-
-## License
-
-MIT (suggested). Replace with whatever you prefer for your repo.
 
 ---
 
